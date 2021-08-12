@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amruthan-kunka-bh
+- 👋 Hi, I’m @https://github.com/amruthan-kunka-bh
 - 👀 I’m interested in learning new technologies & stuffs!
 - 🌱 I’m currently learning docker!
 - 📫 How to reach me - amruthan.kunkasridhar@bakerhughes.com
